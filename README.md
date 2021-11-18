@@ -30,7 +30,7 @@
 # Infra
 ### Server
 * NGINX Cookbook, 데릭 디용기 - 📖,
- * 회사에서 Apache에서 Nginx로 전환하는 과정에서 읽게 된 책
+  * 회사에서 Apache에서 Nginx로 전환하는 과정에서 읽게 된 책
 ---
 
 # ETC
