@@ -1,3 +1,6 @@
+# Repo 이동
+- 해당 repo는 https://github.com/taxijjang/python_study 로 이동하였습니다.
+
 # 더 좋은 개발자가 되기 위해 읽은 책
 
 * 읽은 책 - 📒
